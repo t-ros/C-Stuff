@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* Ternary Operator vs. if else */
+/* Ternary Operator vs. If else */
 
 int main(){
 	float num1 = 3.67;
