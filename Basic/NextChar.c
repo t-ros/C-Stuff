@@ -1,13 +1,19 @@
 #include <stdio.h>
-/* Asks for a single char input and presents the next */
+/*
+ * Program: Next ASCII Character
+ * Description: This program prompts the user to enter a single character.  
+ *              It then calculates and displays the next ASCII character.  
+ *              The input is read using getchar() instead of scanf().  
+ * Author: Teros
+ */
 
 int main(){
 	char str;
 	char next;
 	
 	printf("Char input: ");
-	// scanf("%c", &str);
-	str = getchar();
+	
+	str = getchar(); /* or scanf("%c", &str); */
 	
 	next = str + 1;
 	
