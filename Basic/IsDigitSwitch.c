@@ -9,8 +9,8 @@
 int main(){
 	char a;
 	
-		printf("Enter a char: ");
-		scanf(" %c", &a);
+	printf("Enter a char: ");
+	scanf(" %c", &a);
 	
 	switch (a){
 		case '0':
