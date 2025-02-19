@@ -24,10 +24,10 @@ min = (num1 < num2) ? num1 : num2; // condition ? if_true : if_false
 	} else {
 		min = num2;
 	}
-	printf("\n");
-	printf("IfElse => min(%.2f, %.2f) is %.2f", num1, num2, min);
-	printf("\n");
-	printf("Exaclty the same but with different methods :)");
+
+	printf("\nIfElse => min(%.2f, %.2f) is %.2f", num1, num2, min);
+
+	printf("\nExaclty the same but with different methods :)");
 	
 	return 0;
 }

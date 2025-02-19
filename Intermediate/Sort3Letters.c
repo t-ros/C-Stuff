@@ -15,8 +15,7 @@ int main(){
 		scanf(" %c", &a);		
 		while (getchar() != '\n');
 		if (a < 'a' || a > 'z'){
-			printf("Only lowercase letters accepted");
-			printf("\n");
+			printf("Only lowercase letters accepted\n");
 		}
 	} while (a < 'a' || a > 'z'); 
 	
@@ -25,8 +24,7 @@ int main(){
 		scanf(" %c", &b);
 		while (getchar() != '\n');
 		if (b < 'a' || b > 'z'){
-			printf("Only lowercase letters accepted");
-			printf("\n");
+			printf("Only lowercase letters accepted\n");
 		}
 	} while (b < 'a' || b > 'z');
 	
@@ -35,8 +33,7 @@ int main(){
 		scanf(" %c", &c);
 		while (getchar() != '\n');
 		if (c < 'a' || c > 'z'){
-			printf("Only lowercase letters accepted");
-			printf("\n");
+			printf("Only lowercase letters accepted\n");
 		}
 	} while (c < 'a' || c > 'z');
 	
