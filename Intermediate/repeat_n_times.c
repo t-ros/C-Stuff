@@ -1,10 +1,10 @@
 #include <stdio.h>
 /*  
- * Program: 
+ * Program: Return n Times
  * Description: This programs keeps prompting for an odd number > 1
- * 				Returns the same number for the same amount of times
+ *              Returns the same number for the same amount of times
  * Example: Input: 5
- * 			Output: 5 5 5 5 5 
+ *          Output: 5 5 5 5 5 
  * Author: Teros  
  */
  

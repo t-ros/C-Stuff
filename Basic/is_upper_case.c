@@ -2,7 +2,6 @@
 /*
  * Program: Is Upper
  * Description: Checks if a given character is an Uppercase or Else
- * 				
  * Author: Teros
  */
 
