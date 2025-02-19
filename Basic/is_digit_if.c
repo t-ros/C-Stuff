@@ -1,10 +1,11 @@
-#include <stdio.h>
 /*
  * Program: Is Digit w/ If Else
  * Description: Check if a given character is a digit (0-9)
  *              Has to be done with an If Else
  * Author: Teros
  */
+
+#include <stdio.h>
 
 int main(){
 	char a;

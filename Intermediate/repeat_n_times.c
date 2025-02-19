@@ -1,5 +1,4 @@
-#include <stdio.h>
-/*  
+/* 
  * Program: Return n Times
  * Description: This programs keeps prompting for an odd number > 1
  *              Returns the same number for the same amount of times
@@ -8,6 +7,8 @@
  * Author: Teros  
  */
  
+#include <stdio.h>
+
 int main(){
 	int num;
 	

@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
  * Program: Next ASCII Character
  * Description: This program prompts the user to enter a single character.  
@@ -6,6 +5,8 @@
  *              The input is read using getchar() instead of scanf().  
  * Author: Teros
  */
+ 
+#include <stdio.h>
 
 int main(){
 	char str;

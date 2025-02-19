@@ -1,11 +1,13 @@
-#include <stdio.h>
-/*
+/* 
  * Program: Check Char Type
  * Description: This program prompts the user to enter a single character.  
  *              It checks what type of character it is 
  *              Only recognizes letters and digits  
  * Author: Teros
  */
+ 
+#include <stdio.h>
+
 int main(){
 	
 	char a;

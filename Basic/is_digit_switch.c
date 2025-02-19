@@ -1,4 +1,3 @@
-#include <stdio.h>
 /*
  * Program: Is Digit w/ Switch
  * Description: Check if a given character is a digit (0-9)
@@ -6,6 +5,8 @@
  * Author: Teros
  */
  
+ #include <stdio.h>
+
 int main(){
 	char a;
 	

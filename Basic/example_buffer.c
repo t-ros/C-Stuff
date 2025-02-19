@@ -1,5 +1,4 @@
-#include <stdio.h>
-/*  
+/* 
  * Program: Character and Number Input with Buffer Clear  
  * Description: This program prompts the user to enter an integer and a character.  
  *              It ensures proper input handling by preventing buffer issues,  
@@ -7,6 +6,8 @@
  *              Finally, it displays the entered values.  
  * Author: Teros  
  */
+
+#include <stdio.h>
 
 int main(){
 	char str;

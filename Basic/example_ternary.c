@@ -1,5 +1,4 @@
-#include <stdio.h>
-/*  
+/* 
  * Program: Ternary Operator vs. If-Else  
  * Description: This program compares the use of the ternary operator and the if-else statement  
  *              to determine the minimum of two floating-point numbers.  
@@ -8,6 +7,8 @@
  *              demonstrating that both methods yield the same result.  
  * Author: Teros  
  */
+
+#include <stdio.h>
 
 int main(){
 	float num1 = 3.67;

@@ -1,11 +1,12 @@
-#include <stdio.h>
-/*
+/* 
  * Program: Alphabetical Order of 3 Letters
  * Description: This program prompts the user to enter three lowercase letters.  
  *              It validates the input to ensure only lowercase letters are accepted.  
  *              Then, it displays the entered letters and prints them in alphabetical order.  
  * Author: Teros
  */
+
+#include <stdio.h>
 
 int main(){
 	char a, b, c;
