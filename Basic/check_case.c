@@ -1,8 +1,10 @@
 /* 
  * Program: Letter Case Checker
+ *              
  * Description: This program prompts the user to enter a single character.  
  *              It checks whether the entered character is a lowercase or uppercase letter.  
  *              If it is not a letter, it informs the user accordingly.  
+ *              
  * Author: Teros
  */
  

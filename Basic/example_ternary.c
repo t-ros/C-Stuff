@@ -1,10 +1,12 @@
 /* 
- * Program: Ternary Operator vs. If-Else  
+ * Program: Ternary Operator vs. If-Else 
+ *              
  * Description: This program compares the use of the ternary operator and the if-else statement  
  *              to determine the minimum of two floating-point numbers.  
  *              It first calculates the minimum using the ternary operator  
  *              and then does the same using an if-else statement,  
  *              demonstrating that both methods yield the same result.  
+ *              
  * Author: Teros  
  */
 

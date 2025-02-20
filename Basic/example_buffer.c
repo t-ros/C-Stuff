@@ -1,9 +1,11 @@
 /* 
- * Program: Character and Number Input with Buffer Clear  
+ * Program: Character and Number Input with Buffer Clear 
+ *               
  * Description: This program prompts the user to enter an integer and a character.  
  *              It ensures proper input handling by preventing buffer issues,  
  *              avoiding unintended newline or space characters from affecting input.  
  *              Finally, it displays the entered values.  
+ *              
  * Author: Teros  
  */
 

@@ -1,7 +1,9 @@
 /*
  * Program: Is Digit w/ Switch
+ *              
  * Description: Check if a given character is a digit (0-9)
  *              Has to be done with a Switch Case
+ *              
  * Author: Teros
  */
  
