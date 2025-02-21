@@ -2,7 +2,7 @@
 A collection of C programming exercises and projects.
 
 ## About  
-This repository contains various C programs ranging from basic exercises to intermediate challenges.  
+This repository contains various C programs.  
 These programs demonstrate my understanding of C programming concepts.
 
 ## Compilation and Execution  
