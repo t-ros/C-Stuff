@@ -1,10 +1,6 @@
 # C-Stuff  
 A collection of C programming exercises and projects.
 
-## About  
-This repository contains various C programs.  
-These programs demonstrate my understanding of C programming concepts.
-
 ## Compilation and Execution  
 To compile any C program in this repository, use `gcc` (GNU Compiler Collection).  
 
